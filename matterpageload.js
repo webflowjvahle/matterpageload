@@ -68,7 +68,7 @@ document.addEventListener("DOMContentLoaded", () => {
           render: {
             sprite: {
               texture:
-                "https://uploads-ssl.webflow.com/63a2d168efde7ef4089d65ad/63a30f3c3d9abcbe09dc8ffa_emoticon_big.png",
+                "https://uploads-ssl.webflow.com/63a2d168efde7ef4089d65ad/63a5d788308826bc7d16c760_emoticon.svg",
             },
           },
         });
@@ -92,7 +92,7 @@ document.addEventListener("DOMContentLoaded", () => {
           render: {
             sprite: {
               texture:
-                "https://uploads-ssl.webflow.com/63a2d168efde7ef4089d65ad/63a30f3ca162c16371153655_emoticonred_big.png",
+                "https://uploads-ssl.webflow.com/63a2d168efde7ef4089d65ad/63a2d168efde7eefab9d65c4_emoticonred.svg",
             },
           },
         });
