@@ -177,5 +177,5 @@ document.addEventListener("DOMContentLoaded", () => {
     updateElementSize(); // Update the element size when the page loads
 
     window.addEventListener("resize", updateElementSize); // Update the element size when the window is resized
-  }, 200);
+  }, 300);
 });
