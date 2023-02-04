@@ -68,7 +68,7 @@ document.addEventListener("DOMContentLoaded", () => {
           render: {
             sprite: {
               texture:
-                "https://uploads-ssl.webflow.com/63a2d168efde7ef4089d65ad/63a5d788308826bc7d16c760_emoticon.svg",
+                "https://uploads-ssl.webflow.com/63cae0962cb7601218b2fba6/63cae0962cb7606660b2fbbd_emoticon.svg",
             },
           },
         });
@@ -92,7 +92,7 @@ document.addEventListener("DOMContentLoaded", () => {
           render: {
             sprite: {
               texture:
-                "https://uploads-ssl.webflow.com/63a2d168efde7ef4089d65ad/63a2d168efde7eefab9d65c4_emoticonred.svg",
+                "https://uploads-ssl.webflow.com/63b423783d4e6183ecee2ce6/63b423783d4e611fcaee2cfd_emoticonred.svg",
             },
           },
         });
@@ -177,5 +177,5 @@ document.addEventListener("DOMContentLoaded", () => {
     updateElementSize(); // Update the element size when the page loads
 
     window.addEventListener("resize", updateElementSize); // Update the element size when the window is resized
-  }, 1200);
+  }, 200);
 });
